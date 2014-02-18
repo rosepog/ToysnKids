@@ -107,8 +107,14 @@ section#right {
 }
 section#center{
 	float:left;
-	width:200px;
-	height: 300px;
+	width:460px;
+	height: auto;
+	text-align:left;
+}
+section#center2{
+	float:left;
+	width:260px;
+	height: auto;
 	text-align:left;
 }
 section h1, section h3, section h4, section h5, section h6 {
@@ -223,6 +229,14 @@ footer {
 footer a {
 	margin:0px 5px;
 }
+#images_hz {
+width: 500px;
+height: auto;
+overflow: hidden;
+}
+#images_hz img {
+display: inline;
+margin: 0 10px;}
 	
 
 	
